@@ -1,0 +1,11 @@
+{
+    "name": "Composer",
+    "alias": "composer",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Composer\\Providers\\ComposerServiceProvider"
+    ],
+    "files": []
+}

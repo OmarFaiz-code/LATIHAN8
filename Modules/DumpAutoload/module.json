@@ -1,0 +1,11 @@
+{
+    "name": "DumpAutoload",
+    "alias": "dumpautoload",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DumpAutoload\\Providers\\DumpAutoloadServiceProvider"
+    ],
+    "files": []
+}
